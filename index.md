@@ -7,6 +7,7 @@
 
 ##### Desarrollo
 _La crisis en Venezuela hace referencia a una profunda crisis política, económica y social que comenzó durante el gobierno de Hugo Chávez y que ha continuado con su sucesor Nicolás Maduro período que corresponde a la llamada Revolución Bolivariana. Marcada por una fuerte hiperinflación, aumento de la pobreza, reaparición de enfermedades erradicadas, delincuencia e incremento de la mortalidad, trayendo como resultado una emigración masiva del país._ [Fuente](https://es.wikipedia.org/wiki/Crisis_en_Venezuela)
+
 Varios economistas afirman que la crisis de Venezuela es la peor que sufrió el país, y la peor crisis del mundo desde mediados del siglo XX teniendo en cuenta que no está experimentando una guerra.
 La crisis comenzó en el mandato de Hugo Chávez, el 2 de junio de 2010 se declaró una "guerra económica" debido a la escasez en Venezuela. La crisis empeoró en el gobierno de Nicolás Maduro, agravándose en 2015 tras la caída de de los precios del petróleo debido a una caída de la producción petrolera por falta de mantenimiento e inversión lo que provocó una crisis petrolera mayor. El gobierno no logra reducir el déficit fiscal ante la caída de los ingresos del petróleo, negando la existencia de tal crisis y reprimiendo violentamente a su población. 
 
