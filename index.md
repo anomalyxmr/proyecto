@@ -20,6 +20,26 @@ _Una crisis económica es un periodo en el cual una economía afronta dificultad
 _Desde 2013 existe una crisis económica en Venezuela, como consecuencia de la caída de los precios del petróleo, las expropiaciones y las restricciones del control de cambio de la moneda, la corrupción, entre otros. En este periodo, se ha producido una aguda recesión económica que ha sido una de las más largas en la historia económica del país al igual que dos años de hiperinflación. Desde inicios de la crisis las estadísticas oficiales reflejaron una caída progresiva del ingreso en los hogares, y un incremento de la pobreza. Para 2014, el Instituto Nacional de Estadística (INE) calculó que el porcentaje de personas en riesgo de pobreza alcanzaba el 29,4%. En Venezuela desde el año 2018 el salario mínimo mensual se encuentra por debajo de los 10 dólares._
 _La escasez en Venezuela es un fenómeno que ha afectado a la economía venezolana en los últimos años, y que ha generado una denunciada crisis humanitaria. Esta situación se da en productos con precios regulados como alimentos (leche, diversos tipos de carne, pollo, café, arroz, aceite, entre otros), productos de primera necesidad (papel higiénico, aseo personal), medicinas (para tratar el cáncer entre otros) e inclusive otros como prótesis mamarias y el papel moneda. En estados fronterizos, como Táchira y Zulia, la situación se agrava aún más debido a la facilidad de llevar mercancía con precio artificialmente bajo, debido al control de precios, desde Venezuela hacia Colombia como contrabando._ [Fuente](https://es.wikipedia.org/wiki/Crisis_en_Venezuela)
 
-
-
 ![](/inflacion.png)
+
+### Entrevista
+
+1) ¿La situación en Venezuela es realmente como la cuentan en los medios?
+2) ¿Alguna vez has pensado irte a otro país?
+3) ¿Crees que es viable un futuro en Venezuela para tu familia?
+4) ¿Como describirías tu situación económica comparada al resto de tu país?
+5) ¿Cómo se origina la problemática en Venezuela?
+6) ¿Qué cambios le harías al actual gobierno del país?
+
+1- Si, definitivamente los medios no mienten al respecto, pero las cosas han cambiado desde la última vez que los medios internacionales hablaron de la situación interna del país. Ya no hay escasez, pero las cosas son muy caras y todavía hay gente comiendo de la basura.
+
+2-Todos los venezolanos lo hacen, así que sí.
+
+3-Venezuela es un país sin futuro: con Maduro atornillandose más en el poder, lo único a lo que se puede aspirar es a salir del país para una vida mejor. No hay trabajos decentemente remunerados, ni universidades de calidad.
+
+4-Aunque mi situación económica es superior a la de muchos venezolanos, pues todavía dispongo de vivienda y comida, no estoy exento de sueldos miserables ni del exagerado coste de la vida.
+Además, vivir aquí significa estar completamente desamparado por el sistema de salud: los hospitales no funcionan y las clínicas privadas son excesivamente caras, así que mi vida así como la de la mayoría siempre está a merced de tener buena salud
+
+5-Venezuela tiene muchísimos años arrastrando el mismo problema, creciendo como una bola de nieve cayendo por una montaña nevada. El problema se origina desde la mera independencia de la República, la sociedad venezolana siempre ha enaltecido caudillos y recurrido a la violencia, al crimen y a los subsidios estatales. Debido a eso, la sociedad venezolana ha estado desde sus inicios bajo tiranías de caudillos, algunas mejor que otras, pero tiranías al fin y al cabo. El período democrático que se suele llamar como "Cuarta República" ha sido el período de mayor prosperidad y bonanza para el país, pero también fue el período que se desgastó bajo un sistema bipartidista corrupto y que vió a Chávez nacer. Concluyo así, entonces, que aunque la sociedad venezolana enfrenta una completa reconstrucción una vez caiga la revolución bolivariana, está claro que esta dictadura es, en realidad, una consecuencia de los males de los venezolanos, y no una causa.
+
+6-Venezuela no tiene un futuro tan incierto, actualmente es un secreto a voces que el gobierno y el partido están reformándose y reformando el país rumbo a un sistema parecido al modelo chino o a la Perestroika, que consiga perpetuar la dictadura y a su vez traer desarrollo; una constitución nueva se está redactando desde 2018, presumiblemente para esto. En mi opinión, aunque es una buena solución para la tragedia humanitaria que atraviesa Venezuela, sin duda no es la solución que muchos venezolanos en realidad queremos (aunque podría ser el inicio del fin). Lo que me gustaría ver a mi es un colapso total del partido y de la revolución, incluyendo también a la oposición que nunca logró representar los intereses del pueblo y, más bien lo traicionó. Que haya un período de transición hacia un sistema democrático con instituciones fuertes y caras nuevas que de verdad representen lo que quieren los venezolanos
