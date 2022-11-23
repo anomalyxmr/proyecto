@@ -1,4 +1,4 @@
-## Proyecto sobre la investigación de la economía de Venezuela - Matías
+## Proyecto sobre la investigación de la economía de Venezuela - Matías Silva
 
 1.  Preguntas problema: ¿Cómo empeoró la economía de Venezuela durante el mandato de Hugo Chávez? ¿Cómo evolucionó la crisis desde el año 2019 a la actualidad?
 2.  Objetivos generales: Brindar información sobre la economía de Venezuela, informarme sobre la situación actual y la crisis. Averiguar la causa de la crisis económica.
